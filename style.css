@@ -1,0 +1,98 @@
+.one{
+    text-align: center;
+    text-decoration: underline;
+    background-image: linear-gradient(90deg, red, green, yellow);
+}
+
+.two{
+    text-align: center;
+    border: 2px solid red;
+    margin-left: 600px;
+    width: 400px;
+    border-radius: 10px;
+    background-color: rgb(175, 212, 212);
+}
+
+.three{
+
+}
+
+.four{
+    background-image: linear-gradient(10deg, rgb(199, 20, 20),orange, rgb(199, 20, 20));
+    text-align: center;
+    text-decoration: underline;
+    height: 25px;
+}
+
+#five{
+    background-image: radial-gradient(blue,green);
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.five_a{
+    border: 2px solid rgb(216, 40, 40);
+    color:red;
+    text-align: center;
+    text-decoration: underline;
+    width: 200px;
+    height: 80px;
+    border-width: 5px;
+    padding: 5px;
+    background-color: rgb(237, 237, 59);
+    border-radius: 15px;
+    font-size: 15px;
+    margin: 20px;
+    margin-right: 150px;
+}
+
+.six{
+    color: white;
+    background-color: red;
+    text-align: center;
+    height: 30px;
+}
+#div1{
+    color: white;
+    background-color: blue;
+    /* width: 20%; */
+    width: 330px;
+    float: right;
+    height: 55px;
+    margin-right: 20px;
+}
+#div2{
+    color: white;
+    text-align: center;
+    background-color: rgb(124, 219, 124);
+    width: 33%;
+    float: left;
+    height: 55px;
+}
+#div3{
+    color: white;
+    background-color: skyblue;
+    width: 33%;
+    margin: 0 auto;
+    height: 55px;
+}
+.orange{
+    background-color: orange;
+    color: white;
+    width: 1350px;
+    height: 90px;
+}
+
+.last{
+    background-color: aqua;
+    text-align: center;
+}
+.right{
+    width: 150px;
+    height: 180px;
+    float: right;
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+}
